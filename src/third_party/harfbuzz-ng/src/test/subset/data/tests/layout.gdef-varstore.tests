@@ -1,0 +1,14 @@
+FONTS:
+AdobeVFPrototype.otf
+
+PROFILES:
+notdef-outline.txt
+notdef-outline-drop-hints.txt
+
+SUBSETS:
+A
+AB
+ABC
+BW
+AVW
+ABCW

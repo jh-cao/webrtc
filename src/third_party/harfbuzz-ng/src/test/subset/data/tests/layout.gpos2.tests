@@ -1,0 +1,14 @@
+FONTS:
+gpos2_1_font7.otf
+gpos2_2_font5.otf
+
+PROFILES:
+notdef-outline.txt
+notdef-outline-retain-gids.txt
+
+SUBSETS:
+!#
+!#%
+.#
+ABC
+*

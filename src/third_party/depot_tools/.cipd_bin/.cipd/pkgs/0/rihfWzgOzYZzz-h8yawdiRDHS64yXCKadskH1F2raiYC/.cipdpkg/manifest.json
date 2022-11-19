@@ -1,0 +1,32 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/luci/vpython/windows-amd64",
+  "version_file": ".versions/vpython.exe.cipd_version",
+  "files": [
+    {
+      "name": "vpython.bat",
+      "size": 68,
+      "hash": "DmHnXkKvCbriTDRWyU1bXink02Gtx7U1eYLgvCZJByQC"
+    },
+    {
+      "name": "vpython.exe",
+      "size": 17358848,
+      "hash": "K8wk4rDonEqvasvlyJ4wc9AYfyv3pKoI_ow4OE9ArhcC"
+    },
+    {
+      "name": "vpython3.bat",
+      "size": 69,
+      "hash": "uwYnejWD9Uqx7fct0tvR_XmXzOjB29SQ52ZB2wk4DhwC"
+    },
+    {
+      "name": "vpython3.exe",
+      "size": 17358848,
+      "hash": "K8wk4rDonEqvasvlyJ4wc9AYfyv3pKoI_ow4OE9ArhcC"
+    },
+    {
+      "name": ".versions/vpython.exe.cipd_version",
+      "size": 127,
+      "hash": "SurV0oCYRgtZEkE8_RCfjVww_xayApBGo67_QKHo5woC"
+    }
+  ]
+}

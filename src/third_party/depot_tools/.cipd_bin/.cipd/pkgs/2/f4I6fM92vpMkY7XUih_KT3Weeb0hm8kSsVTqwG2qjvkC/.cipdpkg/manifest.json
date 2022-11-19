@@ -1,0 +1,17 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/tools/luci/led/windows-amd64",
+  "version_file": ".versions/led.exe.cipd_version",
+  "files": [
+    {
+      "name": "led.exe",
+      "size": 34415616,
+      "hash": "Rqz0YdPX-NrT42Pu2tIjTum1KsmbIFK8QqVZvDWIITQC"
+    },
+    {
+      "name": ".versions/led.exe.cipd_version",
+      "size": 123,
+      "hash": "MuxnURdTV4QHYIRbVW25Z71rNsaNl_ZxiU2BtP50n1wC"
+    }
+  ]
+}

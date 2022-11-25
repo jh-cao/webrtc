@@ -62,10 +62,8 @@ ninja -C out\Release-vs2019
 
 【Exception: dbghelp.dll not found in "F:\Windows Kits\10\Debuggers\x64\dbghelp.dll"】
 
-进入 控制面板→程序→程序和功能 页面
+进入 控制面板→程序→程序和功能—>Windows Software Development Kit - Windows 10.0.19041
 
-![image-20221124005803917](C:\Users\miao\AppData\Roaming\Typora\typora-user-images\image-20221124005803917.png)
-
-右击选择更改-->change
+右击选择更改-->change    勾选Debugging Tools for Window  最后change确认即可
 
 ![image-20221124005936011](C:\Users\miao\AppData\Roaming\Typora\typora-user-images\image-20221124005936011.png)

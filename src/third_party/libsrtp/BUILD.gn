@@ -133,8 +133,12 @@ static_library("libsrtp") {
     # "crypto/cipher/aes_icm_nss.c",
   ]
 
-  public_deps = [
-    "//third_party/boringssl:boringssl",
+  # public_deps = [
+  #   "//third_party/boringssl:boringssl",
+  # ]
+
+  include_dirs = [
+    "../"
   ]
 }
 

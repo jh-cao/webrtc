@@ -29,6 +29,8 @@
  *
  * Theora decoder by Alex Beregszaszi
  */
+#define CONFIG_VP4_DECODER 0
+
 
 #include <stdio.h>
 #include <stdlib.h>
